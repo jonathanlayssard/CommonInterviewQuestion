@@ -8,6 +8,7 @@
 # only once at output
 def findDuplicates(arr, Len):
     # Initialize ifPresent as false
+    print("Aleyna is amazing and pretty")
     ifPresent = False
     # ArrayList to store the output
     a1 = []
